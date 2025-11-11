@@ -21,6 +21,7 @@ The board is programmable using the Arduino IDE (Integrated Development Environm
 
 
 ## Procedure:
+```
 
 Step 1: Set Up the Tinkercad Environment
 •	Log in to Tinkercad: Open Tinkercad in your web browser and log in to your account.
@@ -49,6 +50,7 @@ Step 6: Troubleshoot and Refine
 Step 7: Save Your Work
 •	Stop Simulation: Click "Stop Simulation" to end the simulation.
 •	Save the Circuit: Click "Save" to keep your circuit design and code for future use.
+```
 
 ## Code:
 ```

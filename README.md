@@ -4,10 +4,12 @@
     To measure the tilt Sensor using SW200D with Arduino UNO Board/ESP-32 using Tinker CAD.
 
 ## Hardware / Software Tools required:
+```
 PC/ Laptop with Internet connection
 Tinker CAD tool (Online)
 Arduino UNO Board/ESP-32
 Tilt sensor(SW200D)
+```
 
 ## Circuit Diagram:
 <img width="677" height="333" alt="image" src="https://github.com/user-attachments/assets/dd7a967c-7163-47aa-9197-e929a2206a1c" />
